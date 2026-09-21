@@ -1,0 +1,6 @@
+2026-09-21T10:00:00Z INFO server started on :8080
+2026-09-21T10:00:02Z DEBUG connected to database
+2026-09-21T10:00:05Z WARN request latency exceeded 900ms
+2026-09-21T10:00:08Z ERROR timeout contacting payment service
+2026-09-21T10:00:10Z INFO request completed status=200
+2026-09-21T10:00:13Z FATAL demo fatal message for LogWatch testing
