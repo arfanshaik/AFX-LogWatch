@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="assets/preview.svg" alt="AFX-LogWatch preview" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/features.svg" alt="AFX-LogWatch features" width="100%" />
+</p>
+
 # ⚡ AFX LogWatch
 
 **AFX LogWatch** is a fast, lightweight real-time log monitoring CLI written in **Go**. It follows one or more log files, detects common log levels, highlights important events, filters noise with regular expressions, exports JSON Lines, handles common log rotation cases, and can print live event statistics.
